@@ -9,8 +9,8 @@
   
 ******************************************************************
 
-#include <iostream> \\header file in c++ for input/output stream
-#include <cstdlib> C Standard General Utilities Library
+#include <iostream> //header file in c++ for input/output stream
+#include <cstdlib> //C Standard General Utilities Library
 
 using namespace std ;
 
@@ -32,7 +32,7 @@ return 0;
 #3-notions de bases: ecrire un programme qui affiche ceci à l'écran avec la variable "begin= 10" et "end=12"
 "la réunion aura lieu de 10 à 12h"
 
-Indices= 
+Indices: 
   int begin (10); //deux syntaxes possibles
   int end=12; 
 
