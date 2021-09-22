@@ -29,12 +29,15 @@ return 0;
 
 
 
-#3-notions de bases: erire un programme qui affiche ceci à l'écran avec la variable "begin= 10" et "begin=12"
+#3-notions de bases: ecrire un programme qui affiche ceci à l'écran avec la variable "begin= 10" et "end=12"
 "la réunion aura lieu de 10 à 12h"
 
 Indices= 
-  int begin=10;
-  int end=12;
+  int begin (10); //deux syntaxes possibles
+  int end=12; 
 
 
+#4-notions de bases: ecrire un programme qui affiche ceci à l'écran avec la variable "begin= 10" et "end=12"
+"l'examen aura lieu de 10 à 12h"
+ "En vous priant d'arriver avant 10 h. Vous ne pouvez pas quitter la salle avant 12 h"
 
