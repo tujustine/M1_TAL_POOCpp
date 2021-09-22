@@ -1,0 +1,22 @@
+installation d'un IDE
+
+1-codeblocks
+Deux possibiliés:
+
+soit sur le site officiel
+
+  http://www.codeblocks.org/downloads/binaries
+
+soit sur le dépot source
+  linux
+  apt-get install build-essential codeblocks
+
+
+
+2-atom
+https://atom.io/
+
+
+3-Pour tester rapidement votre code il existe aussi des IDE en ligne
+
+http://cpp.sh/
