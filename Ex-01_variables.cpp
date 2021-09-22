@@ -1,1 +1,4 @@
-# Suiviez les instructions pour assigner des variables
+# C++ syntax
+# Suiviez les instructions pour assigner et manipuler des variables
+
+
