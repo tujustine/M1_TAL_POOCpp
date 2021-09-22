@@ -11,7 +11,7 @@ using namespace std ;
 
 i n t main ()
 {
-cout << " On apprends d'abord le C++ puis on écrira avec des programmes orientés objet " << endl ;
+cout << " On apprends d'abord le C++ puis on écrira avec ce langage des programmes orientés objet " << endl ;
 r e t u r n 0;
 }
 
